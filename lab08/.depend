@@ -1,0 +1,2 @@
+test.o: test.cpp clock_time.h
+clock_time.o: clock_time.cpp clock_time.h

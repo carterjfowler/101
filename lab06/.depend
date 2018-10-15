@@ -1,0 +1,2 @@
+main.o: main.cpp rwg.h
+rwg.o: rwg.cpp rwg.h

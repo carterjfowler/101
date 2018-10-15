@@ -1,0 +1,2 @@
+lab10.o: lab10.cpp bit_counter.h counter.h int_counter.h mod_counter.h \
+ bounded_counter.h

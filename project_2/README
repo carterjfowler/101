@@ -1,0 +1,23 @@
+Name: Carter Fowler
+
+Collaborators: Ryan Fite
+
+Challenges: The biggest challenges I faced was converting from string to double and back,
+but I easily fixed that when I saw another ask the same question on piazza. Most of my other
+issues where due to miss typing something.
+
+I liked everything about this project, it was fun, especially implementing my own functions. I didn't dislike anything.
+
+I spent about 4 hours in total on this assignment.
+
+Added Features:
+ (unless otherwise specified, below functions only require one input)
+  - csc: cosecant trig function, input must be in radians
+  - sec: secant trig function, input must be in radians
+  - cot: cotangent trig function, input must be in radians
+  - d[sin, cos, tan, csc, sec, cot]: any of those with a "d" infront of them use input in degrees
+  - a[sin, cos, tan, csc, sec, cot]: any of those with an "a" infront of them are the inverse trig funtion of them
+  - to_deg: converts radians to degrees
+  - base-e: e to the power of an inputted number
+  - cbrt: cube root
+  - hyp: calculate the hypotenuse given two side lengths (requires two inputs)

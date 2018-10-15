@@ -1,0 +1,13 @@
+Name: Carter Fowler
+
+Partner: Ryan Fite
+
+Challenges: the only big challenged I faced was I kept getting a segmentation fault in my read_preorder function,
+and Ryan helped me figure it out. I had forgotten to set my nodes to a "new node".
+
+I really liked this assignment, it really helped me better understand binary trees (specifically how to search them),
+there wasn't really anything I disliked about this assignment.
+
+I spent about 2 hours on this project.
+
+Novel Features Added: a delete function using a post-order traversal (if that counts, I'm not sure that it does).

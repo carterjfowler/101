@@ -1,0 +1,2 @@
+calculator_main.o: calculator_main.cpp postfix_calculator.h
+postfix_calculator.o: postfix_calculator.cpp postfix_calculator.h

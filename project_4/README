@@ -1,0 +1,13 @@
+Name: Carter Fowler
+
+Collaborators: Ryan Fite
+
+Challenges: I ran into an issue with my map model not producing the same result
+as the brute force model, as well as a floating point exception with certain parameters.
+I fixed this with the debugger and Ryan's help.
+
+The only thing I didn't like about the assignment was how difficult it was to try and
+understand it, but that was likely due to the limited time I afforded myself to complete
+this project.
+
+Time: 3.5 hours

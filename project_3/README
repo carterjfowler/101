@@ -1,0 +1,12 @@
+Name: Carter Fowler
+
+Collarborators: None
+
+The biggest challenges I faced were picking the largest vector because I forgot a single line of code, and
+figuring out when I neeeded to clear data members from previous games, and figuring out what conditions I
+needed to check to determine if the given guess was actually correct. I also I had an issue with getline
+skipping the first input, but I was able to fix it by using cin.ignore(1, '\n') after looking online.
+
+I liked how challenging this project was, there wasn't really anything I didn't like about this assignment.
+
+I spent about 7 hours on this assignment.

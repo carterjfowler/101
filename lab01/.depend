@@ -1,0 +1,2 @@
+lab01.o: lab01.cpp muddler.h
+muddler.o: muddler.cpp muddler.h
